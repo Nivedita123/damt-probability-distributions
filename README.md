@@ -3,9 +3,9 @@
 The rogram generates simulated samples from a giving distribution by using samples generated from a Standard Uniform Distribution (Random Number Generator).
 The type of distribution and the parameters are given as command line arguments.
 
-#### Command line format -
+#### Command line format
 
-<number-of-samples> <distribution> <parameters>     
+`<number-of-samples>` `<distribution>` `<parameters>`   
 An example of a call would be:        
 5 bernoulli 0.3     
 Here we want to generate 5 separate samples of bernoulli trials where each trial has a probability of 0.3 of succeeding     
