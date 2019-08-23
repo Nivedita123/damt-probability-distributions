@@ -24,7 +24,6 @@ Here we want to generate 5 separate samples of bernoulli trials where each trial
 - normal `<μ>` `<σ>`
 
 
-
-#### Note:
-Part of CSE 5301: Data Analysis and Modelling techniques course by Prof. Vamsi Krishna Gopi Krishna at The University of Texas at Arlington.
+#### Note 
+This code was submitted as part of CSE 5301: Data Analysis and Modelling techniques course assignment at **The University of Texas at Arlington** to Prof. VamsiKrishna GopiKrishna (http://crystal.uta.edu/~gopikrishnav/)
 
